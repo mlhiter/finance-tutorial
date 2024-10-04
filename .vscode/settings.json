@@ -1,4 +1,13 @@
 {
-  "cSpell.words": ["clsx", "Hono", "lucide", "nextjs", "tailwindcss", "trpc"],
+  "cSpell.words": [
+    "clsx",
+    "Hono",
+    "lucide",
+    "neondatabase",
+    "nextjs",
+    "tailwindcss",
+    "tanstack",
+    "trpc"
+  ],
   "typescript.tsdk": "node_modules/typescript/lib"
 }
